@@ -36,4 +36,4 @@ Write-Host "1. Edit backend/.env with your API keys" -ForegroundColor White
 Write-Host "2. Start backend: cd backend && .\venv\Scripts\Activate.ps1 && uvicorn app.main:app --reload" -ForegroundColor White
 Write-Host "3. Start frontend: npm run dev" -ForegroundColor White
 Write-Host ""
-Write-Host "See SETUP_GUIDE.md for detailed instructions" -ForegroundColor Cyan
+Write-Host "See docs/setup-guide.md for detailed instructions" -ForegroundColor Cyan
