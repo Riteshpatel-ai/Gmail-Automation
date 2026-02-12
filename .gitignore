@@ -80,3 +80,6 @@ client_secret_*.json
 *.tmp
 *.temp
 .cache/
+
+# Legacy documentation (kept for reference but not tracked)
+# docs/legacy/
