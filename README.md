@@ -15,9 +15,13 @@ An intelligent email management system specifically designed for healthcare prof
 
 ## 📸 Project Showcase
 
+> **Note**: Screenshots will be added soon. See [docs/screenshots/](docs/screenshots/) for guidelines.
+
 <div align="center">
-  <img src="docs/screenshots/dashboard-preview.png" alt="Dashboard Preview" width="800"/>
-  <p><em>Intelligent email dashboard with real-time analytics</em></p>
+  <!-- Screenshot placeholder - add actual screenshots here -->
+  <p><em>📊 Intelligent email dashboard with real-time analytics</em></p>
+  <p><em>🔍 Natural language search with AI-powered RAG</em></p>
+  <p><em>📈 Interactive analytics and trend visualization</em></p>
 </div>
 
 ---
@@ -202,7 +206,7 @@ docker-compose up -d
 # Run automated setup
 .\scripts\setup.ps1
 
-# Or manually:
+# Or manually start services:
 # Backend setup
 cd backend
 python -m venv venv
@@ -223,7 +227,7 @@ npm run dev
 chmod +x scripts/setup.sh
 ./scripts/setup.sh
 
-# Or manually:
+# Or manually start services:
 # Backend setup
 cd backend
 python3 -m venv venv
